@@ -1,2 +1,2 @@
 # tutorial
-Ini yutorial belajar
+Ini tutorial belajar
